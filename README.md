@@ -7,6 +7,9 @@ After clicking "Generate Password", the user is prompted to select a password le
 
 Link to site: https://jordynsaltzman.github.io/password-gen/ 
 
+Here is a current screenshot of the page:
+![Screenshot of Site](assets/images/site.PNG "Screenshot")
+
 
 ## Acknowledgements
 This website was created as part of the Johns Hopkins Coding Bootcamp curriculum. Thank you to my instructors, Stetson Lewis and Donald Hesler, for providing direction and assistance. 
