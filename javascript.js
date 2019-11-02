@@ -61,6 +61,11 @@ generate.addEventListener("click", function(event) {
         var textbox = document.getElementById("password");
         textbox.value = password;
 
+        if (special === false && numeric === false && lowerCase === false && upperCase === false){
+            var textbox = document.getElementById("password");
+        textbox.value = "Error: You must select at least one character type.";
+        }
+        
 });   
 
 
